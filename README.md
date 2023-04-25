@@ -1,6 +1,6 @@
 # webscraping-
 
-Fore extracting data from **Google Weather** we used two **libraries HTMLSession** and **requests**. 
+For extracting data from **Google Weather** we used two **libraries HTMLSession** and **requests**. 
 
 HTMLSession is a class in the Python library requests-html that provides a convenient way to make HTTP requests and parse HTML content. It is built on top of the popular requests library and the lxml HTML parsing library.
 
